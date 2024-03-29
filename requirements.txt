@@ -1,0 +1,8 @@
+PyMuPDF
+numpy
+scikit-learn
+tensorflow
+tensorflow_hub
+google-generativeai
+langchain-google-genai
+fastapi
